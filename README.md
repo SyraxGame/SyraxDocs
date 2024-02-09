@@ -1,2 +1,2 @@
-# SyraxGame
+# Syrax Docs
 Readme 
